@@ -1,0 +1,17 @@
+.ele:nth-child(odd) {
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+}
+p:nth-child(3) {
+    font-size: 24px;
+}
+#div1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
